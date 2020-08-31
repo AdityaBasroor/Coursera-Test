@@ -1,0 +1,13 @@
+header{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../slide0.jpg');
+	height: 120vh;
+	background-size: cover;
+	background-position: center;
+}
+body{
+	margin: 0px;
+}
+.para{position: absolute;
+top: 50%;
+left: :50%;
+color: white;}
